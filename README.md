@@ -43,7 +43,7 @@ Comparación de software de programación
 ## 📊 Cuadro comparativo (lenguajes Programacion).
 
 | Plataforma | Rendimiento | Paradigma | Personalización | Comunidad |
-|------------|---  --------|-----------|-----------------|---------  |
+|------------|-----------  |-----------|-----------------|---------  |
 | C#         |  Rápido     | Objetos   | Flexible        | Grande    |
 | PYTHON     | Moderado    | Variado   |   Alta          | Grande    |
 | JavaScript | Variable    |  Eventos  |   Alta          | Grande    |
